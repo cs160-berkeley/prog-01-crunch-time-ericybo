@@ -1,10 +1,10 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+My Crunch Time app takes in a type of exercise as well as an amount (in minutes or reps) then converts that to the number of calories burned, as well as the equivalent amount of exersice needed to burn the same amount of calories.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Eric Bo ([ericbo@berkeley.edu](mailto:ericbo@berkeley.edu))
 
 ## Demo Video
 
