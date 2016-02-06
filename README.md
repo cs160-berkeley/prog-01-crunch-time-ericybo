@@ -1,6 +1,6 @@
 # PROG 01: Crunch Time
 
-My Crunch Time app takes in a type of exercise as well as an amount (in minutes or reps) then converts that to the number of calories burned, as well as the equivalent amount of exersice needed to burn the same amount of calories.
+My Crunch Time app takes in a type of exercise as well as an amount (in minutes or reps) then converts that to the number of calories burned, as well as the equivalent amount of exercise needed to burn the same amount of calories.
 
 ## Authors
 
@@ -13,6 +13,8 @@ See CS 160 Prog 1 Walkthrough (https://youtu.be/UpX3FubqvsI)
 ## Screenshots
 
 
+			
+						
 
 ## Acknowledgments
 
