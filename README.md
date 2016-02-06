@@ -12,7 +12,7 @@ See CS 160 Prog 1 Walkthrough (https://youtu.be/UpX3FubqvsI)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+
 
 ## Acknowledgments
 
